@@ -48,5 +48,7 @@ Using the clusters identified in the previous step, we build a Linear Regression
 * children
 * smoker
 * region
+
+
 The model is evaluated using mean squared error (MSE) and R-squared to assess the accuracy of the predictions.
 
